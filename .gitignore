@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Local files
+20250625-assignment.pdf
+
 # C extensions
 *.so
 
